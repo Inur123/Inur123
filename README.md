@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zainur Roziqin</h1>
-<h3 align="center">Full-Stack Laravel Developer | Tailwind CSS Expert</h3>
+<h3 align="center">Full-Stack Developer | Laravel & Next.js Specialist</h3>
 
 <p align="center">
   <a href="https://github.com/Inur123">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=38BDF8&center=true&width=600&lines=Laravel+Artisan;Tailwind+CSS+Specialist;Open+Source+Contributor;Clean+Code+Advocate;UI%2FUX+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=38BDF8&center=true&width=600&lines=Next.js+15+Expert;Laravel+Artisan;Tailwind+CSS+v4+Specialist;React+19+Enthusiast;Clean+Code+Advocate;Full-Stack+Architect" alt="Typing SVG" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/github/followers/Inur123?color=1DA1F2&logo=github&style=for-the-badge" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/Inur123?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-${YOUR_REPO_COUNT}-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Repositories-Dynamic-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
 </div>
 
@@ -43,16 +43,16 @@
     <tr>
       <td width="50%">
         <ul>
-          <li>🔭 <b>Currently working on:</b> Laravel SaaS with Tailwind UI</li>
-          <li>🌱 <b>Learning deep:</b> Advanced Laravel Patterns</li>
-          <li>👯 <b>Looking to collaborate:</b> Laravel Open Source Projects</li>
+          <li>🔭 <b>Currently working on:</b> Next.js 15 SaaS with Prisma & Better Auth</li>
+          <li>🌱 <b>Learning deep:</b> Advanced React Server Components & T3 Stack</li>
+          <li>👯 <b>Collaboration:</b> Open source Laravel & Next.js projects</li>
         </ul>
       </td>
       <td width="50%">
         <ul>
-          <li>💬 <b>Ask me about:</b> Laravel Optimization</li>
+          <li>💬 <b>Ask me about:</b> Next.js Optimization & Laravel Patterns</li>
           <li>📫 <b>How to reach me:</b> zainurroziqin38@gmail.com</li>
-          <li>⚡ <b>Fun fact:</b> I contribute to open source in my free time</li>
+          <li>⚡ <b>Fun fact:</b> I love building clean, scalable UIs with Tailwind v4</li>
         </ul>
       </td>
     </tr>
@@ -63,28 +63,28 @@
 
 ## 🛠 Tech Stack
 
-### 🔧 Backend
+### 🚀 Modern Web (Next-Gen)
 <div align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</div>
+
+### 🐘 Classic Power (Laravel)
+<div align="center">
+  <img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP_8.x-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="API" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
 
-### 🎨 Frontend
+### ⚙️ Tools & Infrastructure
 <div align="center">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" alt="Alpine.js" />
-</div>
-
-### ⚙️ DevOps & Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 ---
