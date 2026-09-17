@@ -92,9 +92,14 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Inur123&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Inur123&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inur123&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Inur123&theme=radical" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Inur123&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Inur123&theme=radical" alt="Top Languages" />
 </div>
