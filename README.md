@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zainur Roziqin</h1>
-<h3 align="center">Full-Stack Developer | Multi-Framework Enthusiast</h3>
+<h1 align="center">Halo 👋, Saya Muhammad Zainur Roziqin</h1>
+<h3 align="center">Pengembang Full-Stack | Multi-Framework</h3>
 
 <p align="center">
   <a href="https://github.com/Inur123">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=38BDF8&center=true&width=600&lines=Laravel+%2B+React+Developer;Next.js+Full-Stack+Builder;Go+%2B+Next.js+Explorer;Vue.js+Enthusiast;VPS+%26+Server+Setup;Clean+Code+Advocate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=38BDF8&center=true&width=600&lines=Laravel+%2B+React;Next.js+Full-Stack;Go+%2B+Next.js;Vue.js+%2B+Laravel;Setup+VPS+%26+Server;Kode+Bersih+%26+Rapi" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,41 +18,41 @@
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://github.com/Inur123?tab=repositories">
-    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/-Portofolio-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Portofolio" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Inur123&label=Profile%20views&color=0e75b6&style=flat" alt="Inur123" /> 
+  <img src="https://komarev.com/ghpvc/?username=Inur123&label=Dilihat&color=0e75b6&style=flat" alt="Inur123" /> 
   <a href="https://github.com/Inur123?tab=followers">
-    <img src="https://img.shields.io/github/followers/Inur123?color=1DA1F2&logo=github&style=for-the-badge" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Inur123?color=1DA1F2&logo=github&style=for-the-badge&label=Pengikut" alt="Pengikut GitHub" />
   </a>
   <a href="https://github.com/Inur123?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Dynamic-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Repositori-Dinamis-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Repositori" />
   </a>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Tentang Saya
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
         <ul>
-          <li>🔭 <b>Currently working on:</b> Laravel + React, Full-Stack Next.js & Go projects</li>
-          <li>🌱 <b>Learning deep:</b> Golang backend, VPS deployment & server management</li>
-          <li>👯 <b>Collaboration:</b> Open source Laravel, Next.js & Vue projects</li>
+          <li>🔭 <b>Sedang mengerjakan:</b> Proyek Laravel + React, Full-Stack Next.js & Go</li>
+          <li>🌱 <b>Sedang mendalami:</b> Backend Golang, deployment & manajemen VPS</li>
+          <li>👯 <b>Kolaborasi:</b> Proyek open source Laravel, Next.js & Vue</li>
         </ul>
       </td>
       <td width="50%">
         <ul>
-          <li>💬 <b>Ask me about:</b> Laravel, React, Next.js, Go, VPS Setup</li>
-          <li>📫 <b>How to reach me:</b> zainurroziqin38@gmail.com</li>
-          <li>⚡ <b>Fun fact:</b> I love exploring different tech stacks and building clean, scalable apps</li>
+          <li>💬 <b>Tanya saya tentang:</b> Laravel, React, Next.js, Go, Setup VPS</li>
+          <li>📫 <b>Hubungi saya:</b> zainurroziqin38@gmail.com</li>
+          <li>⚡ <b>Fakta unik:</b> Suka eksplorasi berbagai tech stack dan membangun aplikasi yang bersih & skalabel</li>
         </ul>
       </td>
     </tr>
@@ -61,7 +61,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Teknologi yang Digunakan
 
 ### 🚀 Frontend
 <div align="center">
@@ -81,7 +81,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
 </div>
 
-### 🗄️ Database & Infrastructure
+### 🗄️ Database & Infrastruktur
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -90,7 +90,7 @@
   <img src="https://img.shields.io/badge/Linux_VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux VPS" />
 </div>
 
-### ⚙️ Tools
+### ⚙️ Alat Bantu
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -99,17 +99,17 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Aktivitas GitHub
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Inur123&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Inur123&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Inur123&theme=radical" alt="Detail Profil" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Inur123&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Inur123&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Inur123&theme=radical" alt="Statistik" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Inur123&theme=radical" alt="Bahasa Terbanyak" />
 </div>
